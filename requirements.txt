@@ -1,0 +1,10 @@
+tqdm
+flask
+pandas
+pytz
+beautifulsoup4
+lxml
+flask-restful
+selenium
+waitress
+requests
